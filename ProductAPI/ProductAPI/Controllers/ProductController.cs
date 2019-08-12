@@ -39,6 +39,24 @@ namespace ProductAPI.Controllers
             }
         }
 
+        [HttpGet("duplicates")]
+        public IActionResult GetDuplicates()
+        {
+            try
+            {
+                var products = _repositoryWrapper.Product.GetDuplicates();
+                _logManager.LogInfo("Request for Product Duplicates completed.");
+                if (products.FirstOrDefault() == null)
+                    products = new List<Product>();
+                return Ok(products);
+            }
+            catch (Exception ex)
+            {
+                _logManager.LogError($"Request for Product Duplicates failed : {ex.Message}");
+                return StatusCode(500, "Internal Server Error");
+            }
+        }
+
         [HttpGet("{productCode}", Name = "ProductByCode")]
         public IActionResult GetProductByCode(string productCode)
         {

@@ -8,6 +8,7 @@ namespace Contracts
     public interface IProductRepository : IRepositoryBase<Product>
     {
         IEnumerable<Product> GetAllProducts();
+        IEnumerable<Product> GetDuplicates();
         Product GetProductByCode(string productCode);
         void CreateProduct(Product product);
         void UpdateProduct(Product oldProduct, Product UpdatedProduct);

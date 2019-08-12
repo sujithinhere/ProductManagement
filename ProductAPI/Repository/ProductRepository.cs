@@ -24,6 +24,11 @@ namespace Repository
             return FindByCondition(p => p.ProductCode == productCode).FirstOrDefault();
         }
 
+        public IEnumerable<Product> GetDuplicates()
+        {
+            return FindAll().GroupBy(p => p.ProductName).Where(p => p.Count() > 1).SelectMany(p => p);
+        }
+
         public void CreateProduct(Product product)
         {
             Create(product);
