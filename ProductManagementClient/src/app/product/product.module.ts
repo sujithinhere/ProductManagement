@@ -19,7 +19,8 @@ import { ProductDuplicateComponent } from './product-duplicate/product-duplicate
             { path: 'list', component: ProductListComponent },
             { path: 'create', component: ProductCreateComponent },
             { path:'update/:productCode', component: ProductUpdateComponent },
-            { path:'delete/:productCode', component: ProductDeleteComponent }
+            { path:'delete/:productCode', component: ProductDeleteComponent },
+            { path:'duplicates', component: ProductDuplicateComponent }
         ])
     ],
     declarations: [ProductListComponent, ProductCreateComponent, ProductUpdateComponent, ProductDeleteComponent, ProductDuplicateComponent]
