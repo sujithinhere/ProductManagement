@@ -2,5 +2,5 @@ Scaffold-DbContext "Server=(localdb)\MSSQLLocalDB;Database=ProductDB;Trusted_Con
 
 For log to work, nlog.config should have the right path to the log folder
 
-
+Product Management Web app to be completed.
 
