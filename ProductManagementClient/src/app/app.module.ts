@@ -11,7 +11,6 @@ import { MenuComponent } from './menu/menu.component';
 import { NotFoundComponent } from './error-pages/not-found/not-found.component';
 import { InternalServerComponent } from './error-pages/internal-server/internal-server.component';
 import { ErrorHandlerService } from './shared/services/error-handler.service';
-import { ProductDuplicateComponent } from './product-duplicate/product-duplicate.component';
 
 @NgModule({
   declarations: [
@@ -19,8 +18,7 @@ import { ProductDuplicateComponent } from './product-duplicate/product-duplicate
     HomeComponent,
     MenuComponent,
     NotFoundComponent,
-    InternalServerComponent,
-    ProductDuplicateComponent
+    InternalServerComponent,    
   ],
   imports: [
     BrowserModule,
