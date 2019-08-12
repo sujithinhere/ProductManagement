@@ -1,0 +1,14 @@
+C:\Users\sujit_000\Desktop\C-SharpPractice\Product Management\ProductAPI\Repository\bin\Release\netcoreapp2.2\Repository.deps.json
+C:\Users\sujit_000\Desktop\C-SharpPractice\Product Management\ProductAPI\Repository\bin\Release\netcoreapp2.2\Repository.dll
+C:\Users\sujit_000\Desktop\C-SharpPractice\Product Management\ProductAPI\Repository\bin\Release\netcoreapp2.2\Repository.pdb
+C:\Users\sujit_000\Desktop\C-SharpPractice\Product Management\ProductAPI\Repository\bin\Release\netcoreapp2.2\Contracts.dll
+C:\Users\sujit_000\Desktop\C-SharpPractice\Product Management\ProductAPI\Repository\bin\Release\netcoreapp2.2\Entities.dll
+C:\Users\sujit_000\Desktop\C-SharpPractice\Product Management\ProductAPI\Repository\bin\Release\netcoreapp2.2\Contracts.pdb
+C:\Users\sujit_000\Desktop\C-SharpPractice\Product Management\ProductAPI\Repository\bin\Release\netcoreapp2.2\Entities.pdb
+C:\Users\sujit_000\Desktop\C-SharpPractice\Product Management\ProductAPI\Repository\obj\Release\netcoreapp2.2\Repository.csprojAssemblyReference.cache
+C:\Users\sujit_000\Desktop\C-SharpPractice\Product Management\ProductAPI\Repository\obj\Release\netcoreapp2.2\Repository.csproj.CoreCompileInputs.cache
+C:\Users\sujit_000\Desktop\C-SharpPractice\Product Management\ProductAPI\Repository\obj\Release\netcoreapp2.2\Repository.AssemblyInfoInputs.cache
+C:\Users\sujit_000\Desktop\C-SharpPractice\Product Management\ProductAPI\Repository\obj\Release\netcoreapp2.2\Repository.AssemblyInfo.cs
+C:\Users\sujit_000\Desktop\C-SharpPractice\Product Management\ProductAPI\Repository\obj\Release\netcoreapp2.2\Repository.csproj.CopyComplete
+C:\Users\sujit_000\Desktop\C-SharpPractice\Product Management\ProductAPI\Repository\obj\Release\netcoreapp2.2\Repository.dll
+C:\Users\sujit_000\Desktop\C-SharpPractice\Product Management\ProductAPI\Repository\obj\Release\netcoreapp2.2\Repository.pdb

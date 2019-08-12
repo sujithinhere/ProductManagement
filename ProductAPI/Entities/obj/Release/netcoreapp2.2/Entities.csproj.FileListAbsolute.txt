@@ -1,0 +1,9 @@
+C:\Users\sujit_000\Desktop\C-SharpPractice\Product Management\ProductAPI\Entities\bin\Release\netcoreapp2.2\Entities.deps.json
+C:\Users\sujit_000\Desktop\C-SharpPractice\Product Management\ProductAPI\Entities\bin\Release\netcoreapp2.2\Entities.dll
+C:\Users\sujit_000\Desktop\C-SharpPractice\Product Management\ProductAPI\Entities\bin\Release\netcoreapp2.2\Entities.pdb
+C:\Users\sujit_000\Desktop\C-SharpPractice\Product Management\ProductAPI\Entities\obj\Release\netcoreapp2.2\Entities.csprojAssemblyReference.cache
+C:\Users\sujit_000\Desktop\C-SharpPractice\Product Management\ProductAPI\Entities\obj\Release\netcoreapp2.2\Entities.csproj.CoreCompileInputs.cache
+C:\Users\sujit_000\Desktop\C-SharpPractice\Product Management\ProductAPI\Entities\obj\Release\netcoreapp2.2\Entities.AssemblyInfoInputs.cache
+C:\Users\sujit_000\Desktop\C-SharpPractice\Product Management\ProductAPI\Entities\obj\Release\netcoreapp2.2\Entities.AssemblyInfo.cs
+C:\Users\sujit_000\Desktop\C-SharpPractice\Product Management\ProductAPI\Entities\obj\Release\netcoreapp2.2\Entities.dll
+C:\Users\sujit_000\Desktop\C-SharpPractice\Product Management\ProductAPI\Entities\obj\Release\netcoreapp2.2\Entities.pdb

@@ -1,0 +1,6 @@
+Scaffold-DbContext "Server=(localdb)\MSSQLLocalDB;Database=ProductDB;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
+
+For log to work, nlog.config should have the right path to the log folder
+
+
+
